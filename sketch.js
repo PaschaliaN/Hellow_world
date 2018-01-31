@@ -4,7 +4,7 @@ function setup(){
 }
 function draw(){
 //canvasbackground
-background(0);
+background(88,185,227);
 point(500,400);
 //vynel
 //black ellipse
