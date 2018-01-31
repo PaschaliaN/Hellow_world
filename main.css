@@ -1,0 +1,22 @@
+#cover-text{
+    font-family: cursive;
+    font-size: 60;
+    font-kerning: inherit;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 400;
+    margin-left: 330;
+    color: gold;
+
+    
+}
+
+#title{
+    position: absolute;
+    font: 500px;
+    color: white;
+    font-size: 70px;
+    margin-left: 250px;
+    margin-top: 10px;
+
+}
